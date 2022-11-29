@@ -26,3 +26,110 @@ La legión empezó a ser vomitada, lenta y marcialmente, al son de los órganos 
 
 Las áureas armaduras reflejaban un sol que rozaba el cénit del cielo. Poco a poco miles de columnas de cuerpos atléticos de la élite de la Casa flanqueaban un amplio camino que se abría frente a Lázaro. Y al final de ese camino, la catedral del Hijo empezó a besar el suelo lentamente, sin pasión.
 
+Los órganos y las plegarias escalaron, peléandose a uñas y dientes contra el estruendo que parecía sacudir la totalidad de la corteza continental, hasta que explotaron visctoriosos en un estruendo poco después de que los motores se callasen, derrotados. Un cadáver de humo rodeaba la catedral. Esta se debía encontrar a unos buenos doscientos metros de donde Lázaro combatía su tremenda resaca, y aún así, parecía demasiado grande.
+
+Otro juego de órganos elevó su pregaria hacia el cielo de Quintus. Esta vez provenían del humeante gigante. Lázaro estaba demasiado acostumbrado a los músicos marciales en estos acontecimientos: brutos, sin ritmo, eficientes. No estaba en absoluto preparado para la majestuosidad de los cánticos que vibraban a través de las doradas gargantas de la catedral. Nunca había oído algo así.
+
+Lázaro tuvo que hacer un esfuerzo extra para volver a cabrearse con todo el asunto, impedir impresionarse por un burdo truco perpetrado por un niño con demasiado dinero para gastar en pantomimas. Pero no pudo evitar impresionarse. Un poquito.
+
+Las puertas del templo se abrieron de par en par, y cientos de palomas salieron propulsadas como si de otra columna de humo se tratase.
+
+Dios mío, esto es lo más extra que he visto en mucho tiempo.
+
+<!-- TODO do i need to end here? -->
+
+La ducha olía a sándalo y a vómito. Lázaro estaba arqueado frente al desague, viendo como una serpiente de bilis se colaba hacia las alcantarillas. 
+
+Que puto asco. Ni siquera he desayunado. Me estoy haciendo mayor.
+
+Tabita le vio emanar tras el vapor del baño al cabo de unos minutos.
+
+Buenos días, medio muerto - musitó su amiga entre caladas de su cigarro.
+
+Esta vez había tenido la delicadeza de fumar apoyada en la cornisa de la ventana, como repetidas veces se lo había instruido el medio muerto mojado. Lázaro sabía estaba siendo extra delicada con él hoy. Más le valía. Podría matar una legión de orkos con los dientes.
+
+Algún día el tabaco te matará y tu funeral será aburridísmo.
+
+Ni de coña. En mi testamento pone explícitamente que lo tienes que organizar tú. Será el mejor show de drag queens del milenio. Ya puedo verlo en los titulares - las comisuras de los labios se le tensaron en un amago de sonrisa - el joven y prometedor Lord Comandante resulta ser la mayor mariconaza del planeta. Ha sido ascendido de forma immediata tras el exitoso funeral de estado de su mejor y guapísima amiga.... Tabita //surname//
+
+No sé como no te comes más roscos con esa lengua de oro que llevas encima. Encandilarías a cualquiera. - El joven lord comandante había sacado de su armario su albornoz rosa. Sus pies los abrazaban zapatillas peludas con forma de lobitos de Fenrir y su cabeza estaba coronada por una toalla a juego con el albornoz.
+
+Pues la tía de ayer no opina lo mismo. Dios, he pasado toda la mañana escribiéndole mensajes preciosos. Creo que me ha ghosteado.
+
+Peor para ella. Era un poco imbécil, la verdad. Y ese corte de pelo? Parecía una muñeca maldita.
+
+Tío y qué quieres que le haga? Me molan las tías con flequillo. Tienen un aire misterioso. Además, estudió metalitúrgica en la academia. Todas las pibas de metalitúrgica tienen un rollazo que lo flipas.
+
+Tabita. Te quiero con todo mi corazón pero tienes un gusto horrendo para enamorarte. Las beatas son las peores. Deberías saberlo ya. Tu ex no era sacerdotisa o algo así?
+
+No. Trababa de ingeniera en el templo. Tenía que recitar una oración cada vez que quería encender su terminal. Me parto el coño.
+
+Dios. Y la otra, la que te dejó aquí tirada porque la enviaron a una nave inquisitorial?
+
+Oye no hables mal de Ágata que era una tía muy chula. Creo que se mató en un accidente psíquico hace dos años. Pobrecita. 
+
+Haberse quedado aquí.
+
+Gilipollas.
+
+Ambos estallaron en una carcajada un poco amarga, como todas las que compartían. Lázaro se derrumbó sobre la cama, y su amiga hizo lo mismo, con el cigarro todavía entre sus labios. Lázaro aposentó su cabello mojado en el pecho de su amiga. Tabita rodeó sus hombros con el brazo, y le acarició el pelo. Ambos se quedaron en silencio unos segundos. Las caladas del cigarro y el zumbido de la cuidad, amortiguado por los cristales era lo único que resonaba en el pequeño santuario de intimidad que habían erigido.
+
+Yo sí que tengo mal gusto para enamorarme tía. Soy un hipócrita.
+
+Tú, enamorarte? Dios, habría que verlo.
+
+Soy super gilipollas de verdad tía.
+
+No, simplemente te asusta la intimidad. Y lo entiendo. Los tíos son mazo chungos. Cada día le doy gracias al de arriba por hacerme bollera.
+
+<!-- It would be good to reveal here the love interest but i feel im showing my cards too early -->
+
+<!-- Pf. Ya. Yo que sé. Oye sabes quien está buenísimo por cierto?
+
+Ilumíname - Tabita apagó el cigarrillo en el cenicero que había depositado en la mesita de noche con anterioridad.
+
+Eliseo.
+
+Eres gilipollas?
+
+Dios. Está buenísimo tía.
+
+Deberías dejar de beber. Te está matando las neuronas. -->
+
+La imagen de Eliseo le pasó brevemente por la cabeza a Lázaro. Menudo gilipollas. Ese si que no tenía que preocuparse de quien se enamoraba.
+
+He conocido al niño rico de los cojones hoy. Insoportable.
+
+Las palomas salían de la catedral. La luz reflejada en las armaduras de miles de soldados. El heredero entre todos ellos. Armadura impoluta. Perfecta. Preciosa. Demasiado perfecta.
+
+No puedo imaginarme a ese pardillo aguantando ni un día en la academia militar. En la prueba de Higgs se habría desmayado al tercer pitido.
+
+Pf. Pues tú casi te desmayas, pringado.
+
+Tú te desmayarías ahora con todo lo que fumas, guapa.
+
+Lázaro notó una presión en su garganta. Tabita le estaba estrangulando.
+
+El joven Lord Comandante le empezó a asestar golpes en las costillas, mientras se intercambiaban insultos mutuamente, unos con más habilidad respiratoria que otros.
+
+Al cabo de unos minutos acordaron una tregua verbal. Ambos estaban jadeando ligeramente y con una sonrisa en los labios.
+
+Seguro que podrías matar al niño pijo ese. Tienes más bíceps que yo.
+
+Se va notando el gym.
+
+Tabita no iba al gimnasio.
+
+Agh. Hoy tengo que cenar con ese pardillo. Y con el Gobernador. Y con el Inquisidor.
+
+Oye Lázaro - Tabita adoptó un porte exageradamente serio - tengo una pistola en mi mochila. Una palabra y haré que parezca un suicidio.
+
+No lo dudo. Volvió a desplomarse sobre la cama. Déjate de pistolas y sírveme un poco de Vodka. Ya sabes dónde está el minibar.
+
+Para ser militar sueles optar por esa opción casi siempre.
+
+La guerra no sirve para nada, amiga. Solo para huir de tus propios problemas.
+
+Brindo por ello.
+
+Lázaro se sumergió en un pequeño estanque de limón y alcohol. En él estaban sus camaradas. Ya no quedaba ninguno.
