@@ -1,12 +1,18 @@
-El alba se había desintegrado hace horas, y Lázaro tenía una resaca de miedo. Plantado como un pino, con las piernas rectas como postes intentaba que la cabeza no le estallase usando su escasa fuerza de voluntad.
+El alba se había desintegrado hace horas. Lázaro notaba como las sienes le oprimían el cráneo. Casi se arrepentía de todo el alcohol que hace unas horas se precipitó entre las paredes de su esófago. Casi. Plantado como un roble cobrizo, con las piernas rectas como postes. Toda su fuerza de voluntad destinada a que no le estallase la cabeza.
 
-"Por lo menos la resaca me distraerá del gilipollas al que le tenemos que lamer el culo mañana." - El joven Lord Comandante pensaba, hace apenas unas horas.
+El cabello almendrado que le poblaba el cráneo estaba perfectamente peinado en una melena corta. El pelo recogido detrás de las orejas, con un mechón que le caía sobre el ojo derecho, realzando la cicatriz de su labio en el costado opuesto. Su cara era angular, al igual que su alargada nariz y sus labios finos, sarcásticos, afilados. Lo único que rompía las líneas rectas de su cara eran sus ojos caoba, redondos, grandes, profundos.
 
-Siendo franco - pensó para sus adentros - había funcionado.
+Su aspecto era elegante y escrupulosamente ordenado. Dadas las circumstancias. El uniforme de campo de color oliva estaba perfectamente planchado y almidonado, sus numerosas medallas brillaban pálidamente, el brillo dorado pasando por un espejo perfecto. Relucían como sus botas de caña alta negras, perfectamente cuidadas.
 
-El prospecto de tener que sentirse agradecido por que el hijo del Señor se dejase caer por su planeta natal, el agujero de podredumbre que se había convertido en su yugo y en su bendición le cabreaba de sobremanera.
+Su estrategia, aunque retorcidamente infantil, era embriagarse hasta tal punto que el terrible malestar del mañana le distrajese de el todavía más incómodo malestar que suponía recibir al Infante.
 
-"El hijo de primos este se piensa que no podemos luchar contra lo que nos lancen los poderes ruinosos." - Hablaba con su amiga, en tiempos mejores. Tiempos donde no tenía que aguantar el tipo hasta que al hijo de papá este se le ocurriese aterrizar con su nave-iglesia en la plataforma. "Me siento como si me estuviesen escupiendo en la cara. Siempre nos hemos tenido que sacar las castañas del fuego en este puto mundo alejado de la mano de dios. Cuando el reactor explotó, lo único que recibimos fueron palabras vacías de ánimo, pero cuando toca colgarse la medallita por haber terminado con una contingencia del caos tan pequeña que mis hombres y yo nos la podríamos merendar en dos minutos, entonces sí que aparecen." - Su amiga debería estar durmiendo ahora mismo. Hija de puta con suerte. Aunque después de una noche de aguantarle lo menos que podría hacer era tomarse el día libre. Tabita era la única que lo entendía de verdad. No sabía como podía aguantarle siempre. Esa chica merece un monumento. Se lo podría proponer al Gobernador algún día. Seguro que le haría gracia.
+Siendo franco - pensó para sus adentros - estaba funcionado.
+
+El prospecto de tener que sentirse agradecido por que el hijo del Príncipe Ezequiel se dejase caer por el planeta natal de Lázaro, el agujero de podredumbre que se había convertido en su yugo y en su bendición hacía que su mandíbula se tensase, y adicionalmente producía un incómodo nudo en su garganta y el estómago, como si su cuerpo le estuviese impidiendo vomitar. O replicar.
+
+"¿Te lo puedes creer? Un hombre que nunca ha abandonado su palacio de oro se cree con la autoridad de darnos lecciones sobre cómo proteger nuestro planeta. Incluso trae a sus Custodes con él, como si nos hiciesen falta." - Ayer hablaba con su amiga.
+
+"Siempre nos hemos tenido que sacar las castañas del fuego en este puto mundo alejado de la mano de dios. Cuando el reactor explotó, lo único que recibimos fueron palabras vacías de ánimo, pero cuando toca colgarse la medallita por haber terminado con una contingencia del caos tan pequeña que mis hombres y yo nos la podríamos merendar en dos minutos, entonces sí que aparecen." - Su amiga debería estar durmiendo ahora mismo. Hija de puta con suerte. Aunque después de una noche de aguantarle lo menos que podría hacer era tomarse el día libre. Tabita era la única que lo entendía de verdad. No sabía como podía aguantarle siempre. Esa chica merece un monumento. Se lo podría proponer al Gobernador algún día. Seguro que le haría gracia.
 
 <!-- Mention that he does not want to take ibuprofen because he likes a bit of pain -->
 
