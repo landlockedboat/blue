@@ -2,7 +2,7 @@ El alba se había desintegrado hace horas. Lázaro notaba como las sienes le opr
 
 El cabello almendrado que le poblaba el cráneo estaba perfectamente peinado en una melena corta. El pelo recogido detrás de las orejas, con un mechón que le caía sobre el ojo derecho, realzando la cicatriz de su labio en el costado opuesto. Su cara era angular, al igual que su alargada nariz y sus labios finos, sarcásticos, afilados. Lo único que rompía las líneas rectas de su cara eran sus ojos caoba, redondos, grandes, profundos.
 
-Su aspecto era elegante y escrupulosamente ordenado. Dadas las circumstancias. El uniforme de campo de color oliva estaba perfectamente planchado y almidonado, sus numerosas medallas brillaban pálidamente, el brillo dorado pasando por un espejo perfecto. Relucían como sus botas de caña alta negras, perfectamente cuidadas.
+Su aspecto era elegante y escrupulosamente ordenado. Dadas las circumstancias. El uniforme de campo de color oliva estaba perfectamente planchado y almidonado, sus numerosas medallas brillaban pálidamente, el brillo dorado pasando por un espejo perfecto. Demasiadas medallas para alguien tan joven. Relucían como sus botas de caña alta negras, perfectamente cuidadas.
 
 Su estrategia, aunque retorcidamente infantil, era embriagarse hasta tal punto que el terrible malestar del mañana le distrajese de el todavía más incómodo malestar que suponía recibir al Infante.
 
@@ -12,130 +12,127 @@ El prospecto de tener que sentirse agradecido por que el hijo del Príncipe Ezeq
 
 "¿Te lo puedes creer? Un hombre que nunca ha abandonado su palacio de oro se cree con la autoridad de darnos lecciones sobre cómo proteger nuestro planeta. Incluso trae a sus Custodes con él, como si nos hiciesen falta." - Ayer hablaba con su amiga.
 
-"Siempre nos hemos tenido que sacar las castañas del fuego en este puto mundo alejado de la mano de dios. Cuando el reactor explotó, lo único que recibimos fueron palabras vacías de ánimo, pero cuando toca colgarse la medallita por haber terminado con una contingencia del caos tan pequeña que mis hombres y yo nos la podríamos merendar en dos minutos, entonces sí que aparecen." - Su amiga debería estar durmiendo ahora mismo. Hija de puta con suerte. Aunque después de una noche de aguantarle lo menos que podría hacer era tomarse el día libre. Tabita era la única que lo entendía de verdad. No sabía como podía aguantarle siempre. Esa chica merece un monumento. Se lo podría proponer al Gobernador algún día. Seguro que le haría gracia.
+"La Fuerza de Defensa siempre ha cumplido su deber. Nunca hemos recibido ninguna ayuda del Astra Militarum ni de los Custodes. Cuando construíamos Crystallis y diez mil ingenieros y soldados perdieron la vida en un accidente, lo único que recibimos fueron palabras vacías de ánimo. No teníamos suficientes hombres ni para quemar los cuerpos."
 
-<!-- Mention that he does not want to take ibuprofen because he likes a bit of pain -->
+"Pero claro, como ahora nos enfrentamos a los Poderes Ruinosos, los Enemigo del Hombre y el Emperador, nuestro Príncipe ha visto oportuno que su hijo se encargue de tal prestigioso cometido. Imagino que las medallas por exterminar herejes pesan más que las de salvar vidas de tus súbditos."
 
-Pasaron unos minutos más, Lázaro saboreando la amortiguadora calidez del tremendo dolor de cabeza que le estrangulaba las sienes, hasta que las trompetas de la fortaleza empezaron a retumbar.
+Su confidente debía estar durmiendo ahora mismo. Aunque después de una noche de aguantar sus amargas quejas lo menos que podía hacer era tomarse el día libre. Tabita era la única que lo entendía de verdad. No sabía como podía aguantarle siempre. Merece un monumento. Se lo podría proponer a su padre algún día. Seguro que le gustaría.
 
-El Palacio Gris, o la Morterada como lo llamaban afectuosamente los soldados de Quintus se alzaba en el punto más alto de la colina que dominaba Primaris, la cuidad más fea de todo el planeta. La casa de Lázaro. O por lo menos donde pasaba la mayoría de su tiempo.
+Pasaron unos minutos más, Lázaro saboreando la amortiguadora calidez del dolor de cabeza que le estrangulaba las sienes, hasta que las trompetas de la fortaleza empezaron a retumbar. El Palacio Gris se alzaba en el punto más alto de la colina que dominaba Primaris, la casa de Lázaro. O su prisión. No estaba muy seguro todavía.
 
-La plataforma de aterrizaje se extendía como la lengua colosal de un dragón anémico hasta casi alcanzar el horizonte. Primero aterrizaron los soldados del Señor Elíseo, el hijo de su Señor. Su señor tenía nombre, pero todos le llamaban simplemente el Señor o el Jefazo. Elíseo era el Hijo. Todo el mundo le llamaba el Hijo. O el inútil. O el Encargado. O el Iluminado. 
+Las trompetas auguraban, como el chillido de una presa que ha sido sorprendida por un depredador, que la llegada de la Legión era imminente.
 
-<!-- dunno if i keep this -->
+La plataforma de aterrizaje se extendía como la lengua colosal de un dragón moribundo hasta casi lamer el horizonte. Los motores de las naves rugían colosales, escupiendo fuego contra el suelo, como apartando la tierra de ellas.
 
-Los motores de las naves rugían colosales, escupiendo fuego contra el suelo, como apartando la tierra de ellas. A Lázaro le encantaba el rugido de los motores y las naves espaciales enormes, pero sobretodo tenía cierta debilidad por los soldados. Si pudiese se marcaría un trío con los tres. Hay algo muy estimulante en el olor del combustible químico que le hace recordar tiempos más duros pero sin duda más interesantes que ser un funcionario glorificado. Esos eran buenos tiempos. Antes de que algo explotase demasiado cerca de sus piernas y le dieran un montón de medallas y un trabajo de oficina. Puta mierda.
+Lázaro no pudo evitar encandilarse por el espectáculo. Había algo muy estimulante en el olor del combustible químico quemado. Le hacía recordar tiempos más duros, pero sin duda más interesantes que el presente, cuando no era un funcionado glorificado.
 
-<!-- Lázaro se unió al ejército porque no encajaba en este mundo.  -->
+Esos eran buenos tiempos. Antes de que algo explotase demasiado cerca de sus piernas y le dieran un demasiadas medallas y un trabajo de oficina.
 
-La legión empezó a ser vomitada, lenta y marcialmente, al son de los órganos y las plegarias cantadas por los sacerdotes en los tecnoaltares suspendidos a quinientos metros del suelo. Las plegarias retumbaban en la caja torácica del joven Lord Comandante. No le caían muy bien los beatos, pero sin duda sabían acompañar un buen desfile.
+La Legión empezó a ser vomitada, lenta y marcialmente, al son de los órganos y las plegarias cantadas por los sacerdotes en los tecnoaltares suspendidos a quinientos metros del suelo. Los rezos retumbaban en la caja torácica del joven.
 
-Las áureas armaduras reflejaban un sol que rozaba el cénit del cielo. Poco a poco miles de columnas de cuerpos atléticos de la élite de la Casa flanqueaban un amplio camino que se abría frente a Lázaro. Y al final de ese camino, la catedral del Hijo empezó a besar el suelo lentamente, sin pasión.
+Las áureas armaduras reflejaban un sol que rozaba el cénit del cielo. Poco a poco miles de columnas de cuerpos atléticos de la élite del Principado flanqueaban un amplio camino que se abría frente a Lázaro. Y al final de ese camino, la catedral del hijo del príncipe empezó a besar el suelo lentamente, sin pasión.
 
-Los órganos y las plegarias escalaron, peléandose a uñas y dientes contra el estruendo que parecía sacudir la totalidad de la corteza continental, hasta que explotaron visctoriosos en un estruendo poco después de que los motores se callasen, derrotados. Un cadáver de humo rodeaba la catedral. Esta se debía encontrar a unos buenos doscientos metros de donde Lázaro combatía su tremenda resaca, y aún así, parecía demasiado grande.
+Los órganos y las plegarias escalaron, peléandose a uñas y dientes contra el estruendo mecánico de los motores que parecía sacudir hasta la corteza continental, hasta que explotaron visctoriosos en un estruendo poco después de que las máquinas cayeran en silencio sepulcral, derrotadas. Un cadáver de humo rodeaba la catedral. A pesar de encontrarse a unos buenos doscientos metros de donde Lázaro estaba, parecía demasiado grande.
 
-Otro juego de órganos elevó su pregaria hacia el cielo de Quintus. Esta vez provenían del humeante gigante. Lázaro estaba demasiado acostumbrado a los músicos marciales en estos acontecimientos: brutos, sin ritmo, eficientes. No estaba en absoluto preparado para la majestuosidad de los cánticos que vibraban a través de las doradas gargantas de la catedral. Nunca había oído algo así.
+Otro juego de órganos elevó su oración hacia el cielo de Quintus. Esta vez provinientes del humeante gigante. Lázaro no estaba en absoluto preparado para la majestuosidad de los cánticos que vibraban a través de las doradas gargantas de la catedral. Nunca había oído algo así. Tuvo que hacer un esfuerzo extra para volver a concentrarse en su contenido desprecio hacia toda esta situación, pero no pudo evitar impresionarse. Aunque fuese levemente.
 
-Lázaro tuvo que hacer un esfuerzo extra para volver a cabrearse con todo el asunto, impedir impresionarse por un burdo truco perpetrado por un niño con demasiado dinero para gastar en pantomimas. Pero no pudo evitar impresionarse. Un poquito.
+Fue entonces cuando las puertas del templo se abrieron de par en par, y cientos de palomas salieron propulsadas como si de otra columna de humo se tratase.
 
-Las puertas del templo se abrieron de par en par, y cientos de palomas salieron propulsadas como si de otra columna de humo se tratase.
+De entre los aspavientos de las palomas emergió la figura del hombre por el cual todos se habían congregado. Las colosales lanzas de los Custodes se alzaron, creando una arcada afilada y brillante de varios metros de altura.
 
-Dios mío, esto es lo más extra que he visto en mucho tiempo.
+-- ¡O VIRTUS ET IUSTITIA! -- El rugido se produjo al unísono, el lema de la casa Vidius. -- ¡SALVE ULTERIOR! ¡SALVE INFANS ELYSIUM! -- Las voces de la guardia del Principado rugían sobrehumanamente, como ampliadas por la ensordecedora solemnidad del acontecimiento.
 
-<!-- TODO do i need to end here? -->
+Las manos de Lázaro le traicionaron. Impulsadas por la curiosidad y la emoción del momento, alcanzaron sus prismáticos, guardados en la cadera contraria a su pistola, en una robusta funda de piel.
+
+En sus lentes se dibujó la silueta de la nave. Lentamente, fue orientando la vista hacia el portón exquisitamente decorado de la misma, hasta que llegó a atisbar que de entre las sombrías entrañas de la catedral emergía el heredero de la casa Vidius, futuro príncipe de Rubrum Ulterior, sangre Imperial. Elíseo.
+---
 
 La ducha olía a sándalo y a vómito. Lázaro estaba arqueado frente al desague, viendo como una serpiente de bilis se colaba hacia las alcantarillas. 
 
-Que puto asco. Ni siquera he desayunado. Me estoy haciendo mayor.
+-- Desagradable. Ni siquera he desayunado. Me estoy haciendo mayor.
 
 Tabita le vio emanar tras el vapor del baño al cabo de unos minutos.
 
-Buenos días, medio muerto - musitó su amiga entre caladas de su cigarro.
+-- Buenos días, medio muerto -- musitó su amiga entre caladas de su cigarro.
 
-Esta vez había tenido la delicadeza de fumar apoyada en la cornisa de la ventana, como repetidas veces se lo había instruido el medio muerto mojado. Lázaro sabía estaba siendo extra delicada con él hoy. Más le valía. Podría matar una legión de orkos con los dientes.
+Esta vez había tenido la delicadeza de fumar apoyada en la cornisa de la ventana, como repetidas veces se lo había instruido el húmedo medio muerto. Lázaro estaba seguro que esta explosión repentina de cortesía era porque su amiga se compadecía de él. Cosa que en este momento agradecía immensamente.
 
-Algún día el tabaco te matará y tu funeral será aburridísmo.
+Su ondulada cabellera canela se precipitaba hasta unos dedos por debajo de sus hombros. Su nariz ancha, su piel tostada y su estatura le conferían un porte leonesco, sus ojos cobijados por sus anchas cejas vueltos hacia él parecían de depredador, pero Lázaro veía más un ciervo que un felino en ellos.
 
-Ni de coña. En mi testamento pone explícitamente que lo tienes que organizar tú. Será el mejor show de drag queens del milenio. Ya puedo verlo en los titulares - las comisuras de los labios se le tensaron en un amago de sonrisa - el joven y prometedor Lord Comandante resulta ser la mayor mariconaza del planeta. Ha sido ascendido de forma immediata tras el exitoso funeral de estado de su mejor y guapísima amiga.... Tabita //surname//
+Como era de costumbre, le había robado una de sus sudaderas y unos pantalones de ejercicio que solía llevar a fisioterapia. Lázaro se sorprendió al ver que había escogido colores que combinaban. Su amiga tenía multitud de buenas cualidades, pero su gusto con la ropa no era uno de ellos. Tomó una nota mental para mandar a lavar ese conjunto. Debía apestar a humo.
 
-No sé como no te comes más roscos con esa lengua de oro que llevas encima. Encandilarías a cualquiera. - El joven lord comandante había sacado de su armario su albornoz rosa. Sus pies los abrazaban zapatillas peludas con forma de lobitos de Fenrir y su cabeza estaba coronada por una toalla a juego con el albornoz.
+-- Algún día, querida amiga, tu afinidad por el tabaco te matará. Y me temo que tu funeral será aburrido, así que nada se habrá ganado del lento y agonizante declive de tu salud pulmonar.
 
-Pues la tía de ayer no opina lo mismo. Dios, he pasado toda la mañana escribiéndole mensajes preciosos. Creo que me ha ghosteado.
+-- No. Ni de coña. En mi testamento pone explícitamente que lo tienes que organizar tú. Será el mejor show de drag queens del milenio. Ya puedo verlo en los titulares -- las comisuras de los labios se le tensaron en un amago de sonrisa -- el joven y prometedor hijo del Gobernador resulta ser la mayor mariconaza del planeta. Ha sido ascendido de forma immediata tras el exitoso funeral de estado de su mejor y guapísima amiga.... Tabita Cartesius.
 
-Peor para ella. Era un poco imbécil, la verdad. Y ese corte de pelo? Parecía una muñeca maldita.
+-- No puedo imaginar cómo no tienes más exito con las chicas, con la lengua de oro de la que siempre haces gala. Encandilarías a cualquiera. -- El jovenfuturo gobernador había sacado del armario su albornoz rosa. Sus pies los abrazaban zapatillas peludas con forma de lobitos de Fenrir y su cabeza estaba coronada por una toalla a juego con el albornoz.
 
-Tío y qué quieres que le haga? Me molan las tías con flequillo. Tienen un aire misterioso. Además, estudió metalitúrgica en la academia. Todas las pibas de metalitúrgica tienen un rollazo que lo flipas.
+-- Pues la tía de ayer no opina lo mismo. Dios, he pasado toda la mañana escribiéndole mensajes preciosos. Creo que me ha hecho todo el ghosting. -- Tabita contemplaba la pantalla de su Transmisor, como si estuviese considerando tirarse de cabeza dentro de él y ahogarse.
 
-Tabita. Te quiero con todo mi corazón pero tienes un gusto horrendo para enamorarte. Las beatas son las peores. Deberías saberlo ya. Tu ex no era sacerdotisa o algo así?
+-- Es su pérdida, cariño. Para serte sincero, no parecía tener muchas luces, la verdad. Y ese corte de pelo me recuerda a las muñecas que coleccionaba mi querida Abuela, que el Emperador la guarde en su luz. No te conviene.
 
-No. Trababa de ingeniera en el templo. Tenía que recitar una oración cada vez que quería encender su terminal. Me parto el coño.
+-- Tío y qué quieres que le haga? Me molan las tías con flequillo. Tienen un aire misterioso. Además, estudió Metalitúrgica en la academia. Todas las pibas de Metalitúrgica tienen un rollazo que lo flipas.
 
-Dios. Y la otra, la que te dejó aquí tirada porque la enviaron a una nave inquisitorial?
+-- Tabita. Te quiero con todo mi corazón. -- Lázaro pausó brevemente para azuzarse el pelo con la toalla.
 
-Oye no hables mal de Ágata que era una tía muy chula. Creo que se mató en un accidente psíquico hace dos años. Pobrecita. 
+-- ¿Pero...? -- Tabita inquirió, levantando la vista de su pozo de desesperación.
 
-Haberse quedado aquí.
+-- Pero tienes un gusto horrendo para las mujeres. Las Aspirantes son las peores. Deberías saberlo ya. Tu ex no era Sacerdotisa o algo así?
 
-Gilipollas.
+-- No. Trabajaba de ingeniera en el templo. -- Replicó su amiga, ligeramente a la defensiva. -- Tenía que recitar una oración cada vez que quería encender su terminal. -- Una sonrisa se dibujó en sus labios, en contra de su voluntad, antes de devolver su mirada a la pantalla. --  Me parto el coño.
+
+-- Oh, por el Emperador. ¿Y la otra, la que te abandonó porque la destinaron a servir en una nave Inquisitorial?
+
+-- Oye no hables mal de Ágata que era una tía muy chula. Además, creo que se mató en un accidente psíquico hace dos años. Pobrecita. -- Tabita seguía deslizando su pulgar por la pantalla de su Transmisor, con la misma expresión melancólica que antes.
+
+-- Entonces debería haberse quedado aquí.
+
+-- Gilipollas.
 
 Ambos estallaron en una carcajada un poco amarga, como todas las que compartían. Lázaro se derrumbó sobre la cama, y su amiga hizo lo mismo, con el cigarro todavía entre sus labios. Lázaro aposentó su cabello mojado en el pecho de su amiga. Tabita rodeó sus hombros con el brazo, y le acarició el pelo. Ambos se quedaron en silencio unos segundos. Las caladas del cigarro y el zumbido de la cuidad, amortiguado por los cristales era lo único que resonaba en el pequeño santuario de intimidad que habían erigido.
 
-Yo sí que tengo mal gusto para enamorarme tía. Soy un hipócrita.
+-- A veces me gustaría enamorarme de alguien. Para entender lo que se siente.
 
-Tú, enamorarte? Dios, habría que verlo.
+-- Tú, enamorarte? Por el Emperador, habría que verlo.
 
-Soy super gilipollas de verdad tía.
+-- Creo que soy demasiado. Asusto a la gente.
 
-No, simplemente te asusta la intimidad. Y lo entiendo. Los tíos son mazo chungos. Cada día le doy gracias al de arriba por hacerme bollera.
+-- No, simplemente a tí te asusta la intimidad. Y lo entiendo. Los tíos son mazo chungos. Cada día le doy gracias al de arriba por hacerme bollera.
 
-<!-- It would be good to reveal here the love interest but i feel im showing my cards too early -->
+La imagen de Eliseo le pasó brevemente por la cabeza a Lázaro.
 
-<!-- Pf. Ya. Yo que sé. Oye sabes quien está buenísimo por cierto?
-
-Ilumíname - Tabita apagó el cigarrillo en el cenicero que había depositado en la mesita de noche con anterioridad.
-
-Eliseo.
-
-Eres gilipollas?
-
-Dios. Está buenísimo tía.
-
-Deberías dejar de beber. Te está matando las neuronas. -->
-
-La imagen de Eliseo le pasó brevemente por la cabeza a Lázaro. Menudo gilipollas. Ese si que no tenía que preocuparse de quien se enamoraba.
-
-He conocido al niño rico de los cojones hoy. Insoportable.
+-- Cambiando de tema, He conocido a nuestro heredero al trono. Ha sido más insufrible de lo que pensaba.
 
 Las palomas salían de la catedral. La luz reflejada en las armaduras de miles de soldados. El heredero entre todos ellos. Armadura impoluta. Perfecta. Preciosa. Demasiado perfecta.
 
-No puedo imaginarme a ese pardillo aguantando ni un día en la academia militar. En la prueba de Higgs se habría desmayado al tercer pitido.
+-- Sabes, me da la sensación que el hijo del príncipe se habría desmayado durante el acondicionamiento físico básico de la Academia. 
 
-Pf. Pues tú casi te desmayas, pringado.
+-- Pf. Pues tú casi te desmayas, pringado.
 
-Tú te desmayarías ahora con todo lo que fumas, guapa.
+-- Si volviésemos a la Academia, tú no durarías ni cinco minutos, dado el volumen de humo que inhalas diariamente. Tus pulmones están más negros que las profundidades de un Mundo Forja.
 
 Lázaro notó una presión en su garganta. Tabita le estaba estrangulando.
 
-El joven Lord Comandante le empezó a asestar golpes en las costillas, mientras se intercambiaban insultos mutuamente, unos con más habilidad respiratoria que otros.
+El joven le empezó a asestar golpes en las costillas, mientras se intercambiaban insultos mutuamente, unos proferidos con más capacidad respiratoria que otros.
 
-Al cabo de unos minutos acordaron una tregua verbal. Ambos estaban jadeando ligeramente y con una sonrisa en los labios.
+Al cabo de unos minutos acordaron una tregua verbal. Ambos estaban jadeando ligeramente y con una sonrisa en los labios, sentados al borde de la cama.
 
-Seguro que podrías matar al niño pijo ese. Tienes más bíceps que yo.
+-- Debo admitir que seguramente podrías ganar a un pulso a nuestro recién llegado representante del Principado.
 
-Se va notando el gym.
+-- Se va notando el gym.
 
 Tabita no iba al gimnasio.
 
-Agh. Hoy tengo que cenar con ese pardillo. Y con el Gobernador. Y con el Inquisidor.
+-- Agh. Hoy tengo que cenar con él. Y con el Gobernador. Y con el Inquisidor. -- Lázaro hundió su cabeza entre los hombros, dramáticamente.
 
-Oye Lázaro - Tabita adoptó un porte exageradamente serio - tengo una pistola en mi mochila. Una palabra y haré que parezca un suicidio.
+-- Oye Lázaro -- Tabita adoptó un porte exageradamente serio -- Tengo una pistola en mi mochila. Una palabra y haré que parezca un suicidio.
 
-No lo dudo. Volvió a desplomarse sobre la cama. Déjate de pistolas y sírveme un poco de Vodka. Ya sabes dónde está el minibar.
+-- ¿De quién? ¿Mío o del Infante? -- No esperó a una respuesta. La verdad es que ambas opciones le parecían igual de apetecibles. -- Déjate de pistolas y sírveme un poco de Vodka. Ya sabes dónde está el minibar. -- Dijo, al desplomarse sobre la cama de nuevo.
 
-Para ser militar sueles optar por esa opción casi siempre.
+-- No te gusta mucho usar pipas para ser militar. -- Tabita se había levantado como impulsada por un resorte, y ahora rebuscaba en el minibar. Parecía un mapache castaño sumergido en un contenedor de residuos.  
 
-La guerra no sirve para nada, amiga. Solo para huir de tus propios problemas.
+-- La guerra no sirve para nada, amiga. Solo para distraerte de que el resto del Universo sigue existiendo.
 
-Brindo por ello.
+-- Bien dicho, joder. Brindo por ello. ¡Por la guerra! -- Tabita profirió, emergiendo victoriosa de su búsqueda con dos botellas en las manos. 
 
 Lázaro se sumergió en un pequeño estanque de limón y alcohol. En él estaban sus camaradas. Ya no quedaba ninguno.
