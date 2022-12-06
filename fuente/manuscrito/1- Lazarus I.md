@@ -4,7 +4,7 @@ El alba se había desintegrado hace horas. Lázaro notaba como las sienes le opr
 
 El cabello almendrado que le poblaba el cráneo estaba perfectamente peinado en una melena corta. El pelo recogido detrás de las orejas, con un mechón que le caía sobre el ojo derecho, realzando la cicatriz de su labio en el costado opuesto. Su cara era angular, al igual que su alargada nariz y sus labios finos, sarcásticos, afilados. Lo único que rompía las líneas rectas de su cara eran sus ojos caoba, redondos, grandes, profundos.
 
-Su aspecto era elegante y escrupulosamente ordenado. Dadas las circumstancias. El uniforme de campo de color oliva estaba perfectamente planchado y almidonado, sus numerosas medallas brillaban pálidamente, el brillo dorado pasando por un espejo perfecto. Demasiadas medallas para alguien tan joven. Relucían como sus botas de caña alta negras, perfectamente cuidadas.
+Su aspecto era elegante y escrupulosamente ordenado, dadas las circumstancias. El uniforme de campo de color oliva estaba perfectamente planchado y almidonado. Sus botas de caña alta negras lucían perfectamente cuidadas y relucientes, como las numerosas medallas que brillaban pálidamente sobre su chaqueta. Demasiadas medallas para alguien tan joven. 
 
 Su estrategia, aunque retorcidamente infantil, era embriagarse hasta tal punto que el terrible malestar del mañana le distrajese de el todavía más incómodo malestar que suponía recibir al Infante.
 
@@ -36,7 +36,7 @@ Las áureas armaduras reflejaban un sol que rozaba el cénit del cielo. Poco a p
 
 Los órganos y las plegarias escalaron, peléandose a uñas y dientes contra el estruendo mecánico de los motores que parecía sacudir hasta la corteza continental, hasta que explotaron visctoriosos en un estruendo poco después de que las máquinas cayeran en silencio sepulcral, derrotadas. Un cadáver de humo rodeaba la catedral. A pesar de encontrarse a unos buenos doscientos metros de donde Lázaro estaba, parecía demasiado grande.
 
-Otro juego de órganos elevó su oración hacia el cielo de Quintus. Esta vez provinientes del humeante gigante. Lázaro no estaba en absoluto preparado para la majestuosidad de los cánticos que vibraban a través de las doradas gargantas de la catedral. Nunca había oído algo así. Tuvo que hacer un esfuerzo extra para volver a concentrarse en su contenido desprecio hacia toda esta situación, pero no pudo evitar impresionarse. Aunque fuese levemente.
+Otro juego de órganos elevó su oración hacia el cielo de Quintus. Esta vez provinientes del humeante gigante. Lázaro no estaba en absoluto preparado para la majestuosidad de los cánticos que vibraron a través de las doradas gargantas de la catedral. Nunca había oído algo así. Tuvo que hacer un esfuerzo extra para volver a concentrarse en su contenido desdén, pero no pudo evitar impresionarse. Aunque fuese levemente.
 
 Fue entonces cuando las puertas del templo se abrieron de par en par, y cientos de palomas salieron propulsadas como si de otra columna de humo se tratase.
 
@@ -106,7 +106,7 @@ La imagen de Eliseo le pasó brevemente por la cabeza a Lázaro.
 
 ― Cambiando de tema, He conocido a nuestro heredero al trono. Ha sido más insufrible de lo que pensaba.
 
-Las palomas salían de la catedral. La luz reflejada en las armaduras de miles de soldados. El heredero entre todos ellos. Armadura impoluta. Perfecta. Preciosa. Demasiado perfecta.
+Las palomas salían de la catedral. La luz reflejada en las armaduras de miles de soldados, el heredero entre todos ellos. Armadura impoluta. Perfecta. Preciosa. Demasiado perfecta.
 
 ― Sabes, me da la sensación que el hijo del príncipe se habría desmayado durante el acondicionamiento físico básico de la Academia. 
 
