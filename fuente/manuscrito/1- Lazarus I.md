@@ -4,9 +4,9 @@ El alba se había desintegrado hace horas. Lázaro notaba como las sienes le opr
 
 El cabello almendrado que le poblaba el cráneo estaba perfectamente peinado en una melena corta. El pelo recogido detrás de las orejas, con un mechón que le caía sobre el ojo derecho, realzando la cicatriz de su labio en el costado opuesto. Su cara era angular, al igual que su alargada nariz y sus labios finos, sarcásticos, afilados. Lo único que rompía las líneas rectas de su cara eran sus ojos caoba, redondos, grandes, profundos.
 
-Su aspecto era elegante y escrupulosamente ordenado, dadas las circumstancias. El uniforme de campo de color oliva estaba perfectamente planchado y almidonado. Sus botas de caña alta negras lucían perfectamente cuidadas y relucientes, como las numerosas medallas que brillaban pálidamente sobre su chaqueta. Demasiadas medallas para alguien tan joven. 
+Su aspecto era elegante y escrupulosamente ordenado, dadas las circunstancias. El uniforme de campo de color oliva estaba perfectamente planchado y almidonado. Sus botas de caña alta negras lucían perfectamente cuidadas y relucientes, como las numerosas medallas que brillaban pálidas sobre su chaqueta. Demasiadas medallas para alguien tan joven. 
 
-Su estrategia, aunque retorcidamente infantil, era embriagarse hasta tal punto que el terrible malestar del mañana le distrajese de el todavía más incómodo malestar que suponía recibir al Infante.
+Su estrategia, aunque retorcida e infantil, era embriagarse hasta tal punto que el terrible malestar del mañana le distrajese de el todavía más incómodo malestar que suponía recibir al Infante.
 
 ― Siendo franco ― Pensó para sus adentros ― estaba funcionado.
 
@@ -22,7 +22,7 @@ Su confidente debía estar durmiendo ahora mismo. Aunque después de una noche d
 
 Pasaron unos minutos más, Lázaro saboreando la amortiguadora calidez del dolor de cabeza que le estrangulaba las sienes, hasta que las trompetas de la fortaleza empezaron a retumbar. El Palacio Gris se alzaba en el punto más alto de la colina que dominaba Primaris, la casa de Lázaro. O su prisión. No estaba muy seguro todavía.
 
-Las trompetas auguraban, como el chillido de una presa que ha sido sorprendida por un depredador, que la llegada de la Legión era imminente.
+Las trompetas auguraban, como el chillido de una presa que ha sido sorprendida por un depredador, que la llegada de la Legión era inminente.
 
 La plataforma de aterrizaje se extendía como la lengua colosal de un dragón moribundo hasta casi lamer el horizonte. Los motores de las naves rugían colosales, escupiendo fuego contra el suelo, como apartando la tierra de ellas.
 
@@ -32,17 +32,17 @@ Esos eran buenos tiempos. Antes de que algo explotase demasiado cerca de sus pie
 
 La Legión empezó a ser vomitada, lenta y marcialmente, al son de los órganos y las plegarias cantadas por los sacerdotes en los tecnoaltares suspendidos a quinientos metros del suelo. Los rezos retumbaban en la caja torácica del joven.
 
-Las áureas armaduras reflejaban un sol que rozaba el cénit del cielo. Poco a poco miles de columnas de cuerpos atléticos de la élite del Principado flanqueaban un amplio camino que se abría frente a Lázaro. Y al final de ese camino, la catedral del hijo del príncipe empezó a besar el suelo lentamente, sin pasión.
+Las áureas armaduras reflejaban un sol que rozaba el cenit del cielo. Poco a poco miles de columnas de cuerpos atléticos de la élite del Principado flanqueaban un amplio camino que se abría frente a Lázaro. Y al final de ese camino, la catedral del hijo del príncipe empezó a besar el suelo lentamente, sin pasión.
 
-Los órganos y las plegarias escalaron, peléandose a uñas y dientes contra el estruendo mecánico de los motores que parecía sacudir hasta la corteza continental, hasta que explotaron visctoriosos en un estruendo poco después de que las máquinas cayeran en silencio sepulcral, derrotadas. Un cadáver de humo rodeaba la catedral. A pesar de encontrarse a unos buenos doscientos metros de donde Lázaro estaba, parecía demasiado grande.
+Los órganos y las plegarias escalaron, peleándose a uñas y dientes contra el estruendo mecánico de los motores que parecía sacudir hasta la corteza continental, hasta que explotaron victoriosos en un estruendo poco después de que las máquinas cayeran en silencio sepulcral, derrotadas. Un cadáver de humo rodeaba la catedral. A pesar de encontrarse a unos buenos doscientos metros de donde Lázaro estaba, parecía demasiado grande.
 
-Otro juego de órganos elevó su oración hacia el cielo de Quintus. Esta vez provinientes del humeante gigante. Lázaro no estaba en absoluto preparado para la majestuosidad de los cánticos que vibraron a través de las doradas gargantas de la catedral. Nunca había oído algo así. Tuvo que hacer un esfuerzo extra para volver a concentrarse en su contenido desdén, pero no pudo evitar impresionarse. Aunque fuese levemente.
+Otro juego de órganos elevó su oración hacia el cielo de Quintus. Esta vez provenientes del humeante gigante. Lázaro no estaba en absoluto preparado para la majestuosidad de los cánticos que vibraron a través de las doradas gargantas de la catedral. Nunca había oído algo así. Tuvo que hacer un esfuerzo extra para volver a concentrarse en su contenido desdén, pero no pudo evitar impresionarse. Aunque fuese levemente.
 
 Fue entonces cuando las puertas del templo se abrieron de par en par, y cientos de palomas salieron propulsadas como si de otra columna de humo se tratase.
 
 De entre los aspavientos de las palomas emergió la figura del hombre por el cual todos se habían congregado. Las colosales lanzas de los Custodes se alzaron, creando una arcada afilada y brillante de varios metros de altura.
 
-― ¡O VIRTUS ET IUSTITIA! ― El rugido se produjo al unísono, el lema de la casa Vidius. ― ¡SALVE ULTERIOR! ¡SALVE INFANS ELYSIUM! ― Las voces de la guardia del Principado rugían sobrehumanamente, como ampliadas por la ensordecedora solemnidad del acontecimiento.
+― ¡O VIRTUS ET IUSTITIA! ― El rugido se produjo al unísono, el lema de la casa Vidius. ― ¡SALVE ULTERIOR! ¡SALVE INFANS ELYSIUM! ― Las voces de la guardia del Principado rugían de manera sobrehumana, como ampliadas por la ensordecedora solemnidad del acontecimiento.
 
 Las manos de Lázaro le traicionaron. Impulsadas por la curiosidad y la emoción del momento, alcanzaron sus prismáticos, guardados en la cadera contraria a su pistola, en una robusta funda de piel.
 
@@ -50,25 +50,25 @@ En sus lentes se dibujó la silueta de la nave. Lentamente, fue orientando la vi
 
 ***
 
-La ducha olía a sándalo y a vómito. Lázaro estaba arqueado frente al desague, viendo como una serpiente de bilis se colaba hacia las alcantarillas. 
+La ducha olía a sándalo y a vómito. Lázaro estaba arqueado frente al desagüe, viendo como una serpiente de bilis se colaba hacia las alcantarillas. 
 
-― Desagradable. Ni siquera he desayunado. Me estoy haciendo mayor.
+― Desagradable. Ni siquiera he desayunado. Me estoy haciendo mayor.
 
 Tabita le vio emanar tras el vapor del baño al cabo de unos minutos.
 
 ― Buenos días, medio muerto ― Musitó su amiga entre caladas de su cigarro.
 
-Esta vez había tenido la delicadeza de fumar apoyada en la cornisa de la ventana, como repetidas veces se lo había instruido el húmedo medio muerto. Lázaro estaba seguro que esta explosión repentina de cortesía era porque su amiga se compadecía de él. Cosa que en este momento agradecía immensamente.
+Esta vez había tenido la delicadeza de fumar apoyada en la cornisa de la ventana, como repetidas veces se lo había instruido el húmedo medio muerto. Lázaro estaba seguro que esta explosión repentina de cortesía era porque su amiga se compadecía de él. Cosa que en este momento agradecía inmensamente.
 
-Su ondulada cabellera canela se precipitaba hasta unos dedos por debajo de sus hombros. Su nariz ancha, su piel tostada y su estatura le conferían un porte leonesco, sus ojos cobijados por sus anchas cejas vueltos hacia él parecían de depredador, pero Lázaro veía más un ciervo que un felino en ellos.
+Su ondulada cabellera canela se precipitaba hasta unos dedos por debajo de sus hombros. Su nariz ancha, su piel tostada y su estatura le conferían un porte leonino, sus ojos cobijados por sus anchas cejas vueltos hacia él parecían de depredador, pero Lázaro veía más un ciervo que un felino en ellos.
 
 Como era de costumbre, le había robado una de sus sudaderas y unos pantalones de ejercicio que solía llevar a fisioterapia. Lázaro se sorprendió al ver que había escogido colores que combinaban. Su amiga tenía multitud de buenas cualidades, pero su gusto con la ropa no era uno de ellos. Tomó una nota mental para mandar a lavar ese conjunto. Debía apestar a humo.
 
 ― Algún día, querida amiga, tu afinidad por el tabaco te matará. Y me temo que tu funeral será aburrido, así que nada se habrá ganado del lento y agonizante declive de tu salud pulmonar.
 
-― No. Ni de coña. En mi testamento pone explícitamente que lo tienes que organizar tú. Será el mejor show de drag queens del milenio. Ya puedo verlo en los titulares ― las comisuras de los labios se le tensaron en un amago de sonrisa ― el joven y prometedor hijo del Gobernador resulta ser la mayor mariconaza del planeta. Ha sido ascendido de forma immediata tras el exitoso funeral de estado de su mejor y guapísima amiga.... Tabita Cartesius.
+― No. Ni de coña. En mi testamento pone explícitamente que lo tienes que organizar tú. Será el mejor show de drag queens del milenio. Ya puedo verlo en los titulares ― las comisuras de los labios se le tensaron en un amago de sonrisa ― el joven y prometedor hijo del Gobernador resulta ser la mayor mariconaza del planeta. Ha sido ascendido de forma inmediata tras el exitoso funeral de estado de su mejor y guapísima amiga.... Tabita Cartesius.
 
-― No puedo imaginar cómo no tienes más exito con las chicas, con la lengua de oro de la que siempre haces gala. Encandilarías a cualquiera. ― El jovenfuturo gobernador había sacado del armario su albornoz rosa. Sus pies los abrazaban zapatillas peludas con forma de lobitos de Fenrir y su cabeza estaba coronada por una toalla a juego con el albornoz.
+― No puedo imaginar cómo no tienes más éxito con las chicas, con la lengua de oro de la que siempre haces gala. Encandilarías a cualquiera. ― El joven futuro gobernador había sacado del armario su albornoz rosa. Sus pies los abrazaban zapatillas peludas con forma de lobeznos de Fenrir y su cabeza estaba coronada por una toalla a juego con el albornoz.
 
 ― Pues la tía de ayer no opina lo mismo. Dios, he pasado toda la mañana escribiéndole mensajes preciosos. Creo que me ha hecho todo el ghosting. ― Tabita contemplaba la pantalla de su Transmisor, como si estuviese considerando tirarse de cabeza dentro de él y ahogarse.
 
